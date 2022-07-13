@@ -1,5 +1,5 @@
 # Flask-Web-App-Candlestick-Plot
-
+Candlestick charts are a technical tool that packs data for multiple time frames into single price bars. This makes them more useful than traditional open-high, low-close bars or simple lines that connect the dots of closing prices. Candlesticks build patterns that predict price direction once completed. Proper color coding adds depth to this colorful technical tool, which dates back to 18th-century Japanese rice traders
 
 
 # KEY TAKEAWAYS
